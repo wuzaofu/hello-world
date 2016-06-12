@@ -1,5 +1,6 @@
 # hello-world
-zf another repository
+
+zf another repository master
 
 
 
